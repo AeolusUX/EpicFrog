@@ -26,4 +26,8 @@ PROHIBITED:
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
+### How to Install?
+
+Copy all files from the Resources folder to your Resources folder on your SD Card.
+
 ###### [back to top](https://github.com/AeolusUX/ArkOS-theme-Cyber2077)
