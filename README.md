@@ -1,5 +1,7 @@
 # DataFrog SF2000 Theme EpicFrog
-DataFrog SF2000 Theme on EpicNoir & EpicCody
+![](https://raw.githubusercontent.com/AeolusUX/EpicFrog/main/preview.png)
+
+## DataFrog SF2000 Theme inspired by EpicNoir & EpicCody
 Stock OS Theme fit for SF2000 Retro Handheld
 
 Developed by AeolusUX, this port was made possible with the help of the Theme Starter Kit from @brn.
